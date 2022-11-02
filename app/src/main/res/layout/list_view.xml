@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/textViewtask"
+        android:layout_width="143dp"
+        android:layout_height="68dp"
+        android:layout_marginStart="59dp"
+        android:layout_marginTop="203dp"
+        android:layout_marginEnd="209dp"
+        android:layout_marginBottom="380dp"
+        android:text="TextView"
+        android:textColor="#4B86B4"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+

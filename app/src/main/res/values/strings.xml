@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string-array name="dog_names">
+        <item>Labrador Retriever</item>
+        <item>French Bulldog</item>
+        <item>German Shepherd</item>
+        <item>Poodle</item>
+        <item>Bulldog</item>
+        <item>Beagle</item>
+        <item>Rottweiler</item>
+        <item>German Shorthaired Pointer</item>
+        <item>Dachshund</item>
+        <item>Pembroke Welsh Corgi</item>
+        <item>Yorkshire Terrier</item>
+        <item>Boxer</item>
+        <item>Cavalier King Charles Spaniel</item>
+        <item>Doberman Pinscher</item>
+        <item>Great Dane</item>
+        <item>Miniature Schnauzer</item>
+
+
+    </string-array>
+    
+    <string-array name="dog_lifespan">
+        <item>10-12 years</item>
+        <item>10-12 years</item>
+        <item>10-12 years</item>
+        <item>10-12 years</item>
+        <item>12-15 years</item>
+        <item>8-10 years</item>
+        <item>12-15 years</item>
+        <item>8-11 years</item>
+        <item>12-14 years</item>
+        <item>12-15 years</item>
+        <item>12-15 years</item>
+        <item>12-15 years</item>
+        <item>12-15 years</item>
+        <item>12-15 years</item>
+        <item>12-15 years</item>
+        <item>12-15 years</item>
+
+
+    </string-array>
+</resources>
